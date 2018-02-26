@@ -1,7 +1,5 @@
 def my_hash
-  your_hash["yolo" =>
-
-  
+  your_hash = {"yolo" => "yes"}
 end
 
 
